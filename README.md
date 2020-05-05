@@ -47,8 +47,9 @@ Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo a
 
 #### Exemplo 1:
 
-> Dada a **entrada** do seguinte array de produtos (IDs): `[120, 230, 310, 490]`
-> É esperada a seguinte **saída**:
+>Dada a **entrada** do seguinte array de produtos (IDs): `[120, 230, 310, 490]`
+>
+>É esperada a seguinte **saída**:
 ```javascript
 {
   products: [
@@ -79,8 +80,9 @@ Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo a
 
 #### Exemplo 2:
 
-> Dada a **entrada** do seguinte array de produtos (IDs): `[130, 140, 230, 260]`
-> É esperada a seguinte **saída**:
+>Dada a **entrada** do seguinte array de produtos (IDs): `[130, 140, 230, 260]`
+>
+>É esperada a seguinte **saída**:
 ```javascript
 {
     products: [
@@ -111,8 +113,9 @@ Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo a
 
 #### Exemplo 3:
 
-> Dada a **entrada** do seguinte array de produtos (IDs): `[110, 120, 130, 140]`
-> É esperada a seguinte **saída**:
+>Dada a **entrada** do seguinte array de produtos (IDs): `[110, 120, 130, 140]`
+>
+>É esperada a seguinte **saída**:
 ```javascript
 {
     products: [
@@ -143,8 +146,9 @@ Dada a entrada de um **Array** com os `ids` dos produtos, um `objeto` contendo a
 
 #### Assertion Example 4:
 
-> Dada a **entrada** do seguinte array de produtos (IDs): `[110, 130, 140, 230, 310, 330]`
-> É esperada a seguinte **saída**:
+>Dada a **entrada** do seguinte array de produtos (IDs): `[110, 130, 140, 230, 310, 330]`
+>
+>É esperada a seguinte **saída**:
 ```javascript
 {
     products: [
